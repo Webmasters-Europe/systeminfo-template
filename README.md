@@ -9,3 +9,5 @@ Template für die Einsendeaufgabe "Systeminfo" der Class "Einführung in Node.js
 ## Demo
 
 Eine Demo der Einsendeaufgabe findet sich unter: <a href="https://terminal.webmasters-akademie.dev/">https://terminal.webmasters-akademie.dev/</a>
+
+![CleanShot 2021-03-10 at 1 13 40](https://user-images.githubusercontent.com/42392570/110627647-85898780-81a2-11eb-818d-36cf7b617b01.gif)
