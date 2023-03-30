@@ -4,7 +4,7 @@ Template für die Einsendeaufgabe "Systeminfo" der Class "Einführung in Node.js
 </p>
 
 ## Systeminfo
-*Systeminfo* ist eine CLI-Applikation, bei der Sie die Systeminformation zum Betriebssystem und den vorhandenen CPU Kernen ausgeben. Dieses Template ist der Ausgangspunkt, von dem du in die Einsendeaufgabe starten kannst. Tobe dich aus und setzte deiner Kreativität keine Grenzen.
+*Systeminfo* ist eine CLI-Applikation, bei der die Systeminformation zum Betriebssystem und den vorhandenen CPU Kernen ausgegeben werden kann. Dieses Template ist der Ausgangspunkt, von dem aus du in die Einsendeaufgabe starten kannst. Hier kannst du dich austoben, deiner Kreativität sind keine Grenzen gesetzt.
 
 ## Demo
 
